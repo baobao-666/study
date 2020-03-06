@@ -1,11 +1,11 @@
 ---
 home: true
-heroImage: /avatar.png
+heroImage: /timg.jpg
 actionText: Let`s Go →
 actionLink: /zh/standard/Start.html
 sidebarDepth: 2
 sidebar: auto
-footer: MIT Licensed | Copyright © 1970-present Jasonandjay
+footer: ""
 ---
 
 <div style="text-align: center">
@@ -27,7 +27,7 @@ footer: MIT Licensed | Copyright © 1970-present Jasonandjay
   </div>
 </div>
 
-### 起步就像数 1, 2, 3 一样容易
+<!-- ### 起步就像数 1, 2, 3 一样容易
 
 ``` bash
 # 安装
@@ -45,4 +45,4 @@ vuepress build
 
 ::: warning 兼容性注意事项
 VuePress 要求 Node.js >= 8。
-:::
+::: -->
